@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "294957458007",
+    "project_id": "hakubasolotrip",
+    "storage_bucket": "hakubasolotrip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294957458007:android:3dd9e04a62078801d63912",
+        "android_client_info": {
+          "package_name": "com.flutterflow.hakubasolotrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294957458007-5mfjgq8tl697kmmvkqecs7ok6pk9dgu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.hakubasolotrip",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "294957458007-nfc9hme6v9mnkblhgb20kqegl3c2g05u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVb7ZjbbGWtMsYHTa4_GBw3RyTpKTlE9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294957458007-nfc9hme6v9mnkblhgb20kqegl3c2g05u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294957458007-sifhb6g8t24nuduugl799pi9lihi0bs4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.hakubasolotrip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
