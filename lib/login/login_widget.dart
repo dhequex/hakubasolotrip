@@ -51,7 +51,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                     image: DecorationImage(
                       fit: BoxFit.fitWidth,
                       image: Image.asset(
-                        'assets/images/topSection@2x.png',
+                        'assets/images/topSection@hst.png',
                       ).image,
                     ),
                   ),

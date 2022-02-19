@@ -54,7 +54,7 @@ class _RegisterWidgetState extends State<RegisterWidget> {
                   image: DecorationImage(
                     fit: BoxFit.fitWidth,
                     image: Image.asset(
-                      'assets/images/topSection@2x.png',
+                      'assets/images/topSection@hst.png',
                     ).image,
                   ),
                 ),

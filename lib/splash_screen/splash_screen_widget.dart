@@ -47,7 +47,7 @@ class _SplashScreenWidgetState extends State<SplashScreenWidget> {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Image.asset(
-                      'assets/images/logo_HomeScreen@3x.png',
+                      'assets/images/hakubasolotrip.png',
                       width: 164,
                       height: 234,
                       fit: BoxFit.fitHeight,
