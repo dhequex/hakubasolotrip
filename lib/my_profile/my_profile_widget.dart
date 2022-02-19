@@ -263,11 +263,6 @@ class _MyProfileWidgetState extends State<MyProfileWidget> {
                                 ),
                               ),
                             ),
-                            Text(
-                              'App Version v0.0',
-                              textAlign: TextAlign.center,
-                              style: FlutterFlowTheme.of(context).bodyText2,
-                            ),
                           ],
                         ),
                       ],

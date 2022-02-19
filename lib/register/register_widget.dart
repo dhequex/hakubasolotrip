@@ -50,12 +50,15 @@ class _RegisterWidgetState extends State<RegisterWidget> {
                 width: MediaQuery.of(context).size.width,
                 height: 200,
                 decoration: BoxDecoration(
-                  color: FlutterFlowTheme.of(context).primaryColor,
+                  color: FlutterFlowTheme.of(context).alternate,
                   image: DecorationImage(
                     fit: BoxFit.fitWidth,
                     image: Image.asset(
                       'assets/images/topSection@hst.png',
                     ).image,
+                  ),
+                  border: Border.all(
+                    color: FlutterFlowTheme.of(context).primaryBackground,
                   ),
                 ),
               ),
